@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jvsoutomaior
 - 👀 I’m interested in ... Games, musica and going out with my friends
 - 🌱 I’m currently learning ... Java,
-- 💞️ I’m looking to collaborate on ... lots of games
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
 <!---
