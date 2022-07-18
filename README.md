@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @Jvsoutomaior
+- Estudante de Engenharia de Software na UnB - FGA
+- Intagram - https://www.instagram.com/jvsoutomaior/
+- linkedin - https://www.linkedin.com/in/joao-vitor-motta-souto-maior/
+
+
 <!---
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Java
